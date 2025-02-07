@@ -1,0 +1,45 @@
+
+/* Forms */
+.formMain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30%;
+  background-color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.form-input {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+.form-input label {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.form-input button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 4px;
+}
+
+.form-input button:hover {
+  background-color: lightgray;
+  color: black;
+}
+
+.terms {
+  display: flex;
+  justify-content: center;
+}

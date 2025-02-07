@@ -1,2 +1,2 @@
 # SocialMedia
-For older people
+Social media for the older demographic

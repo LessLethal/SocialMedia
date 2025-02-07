@@ -1,0 +1,31 @@
+/* Terms of Service */
+.termsOfService {
+    max-width: 900px;
+    margin: 30px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    line-height: 1.8;
+    font-size: 1.1em;
+  }
+  
+  .termsOfService p {
+    margin: 20px 0;
+  }
+  
+.buttonTerms{
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 4px;
+} 
+
+.link{
+  color: white;
+}
